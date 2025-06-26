@@ -98,7 +98,7 @@
         <mxCell id="2BgyZm6CQwnafnH_FEMs-32" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=default;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="320" y="775" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="2BgyZm6CQwnafnH_FEMs-35" value="Store location to userSessionSetting&lt;br&gt;IF&lt;br&gt;different from previous&lt;div&gt;&lt;br&gt;AND&lt;br&gt;&lt;br&gt;pu in lcal app session variable&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+        <mxCell id="2BgyZm6CQwnafnH_FEMs-35" value="Store location to userSessionSetting&lt;br&gt;IF&lt;br&gt;different from previous&lt;div&gt;&lt;br&gt;AND&lt;br&gt;&lt;br&gt;put in local app session variable&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="460" y="520" width="120" height="160" as="geometry" />
         </mxCell>
         <mxCell id="2BgyZm6CQwnafnH_FEMs-37" value="" style="endArrow=none;html=1;rounded=0;startArrow=block;startFill=1;edgeStyle=orthogonalEdgeStyle;" parent="1" source="2BgyZm6CQwnafnH_FEMs-3" target="2BgyZm6CQwnafnH_FEMs-35" edge="1">
